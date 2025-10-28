@@ -13,7 +13,7 @@ That’s why, in recent months, I’ve become increasingly interested in **Go la
 
 Go, on the other hand, feels refreshing in its simplicity. Most of the essential tools come built-in—no need to juggle frameworks, build systems, or plugins like Spring, Maven, or Gradle. It offers a straightforward, pragmatic approach to software development that prioritises clarity and consistency over cleverness.
 
-I followed the [https://go.dev/tour/welcome/1](Tour of Go), completed a [https://www.linkedin.com/learning/certificates/9e85825cfa3b72a6cb3690bec0770af2878327e514aa636f93e915559c867c25?accountId=190487953&u=190487953&success=true&authUUID=VZrWt4MHSKi3YVWwvMgMOg%3D%3D](Go course) and created some [https://github.com/alexcuesta/go-weather](projects) in the past. However, I want to start focusing more on this language since now on.
+I followed the [Tour of Go](https://go.dev/tour/welcome/1), completed a [Go course](https://www.linkedin.com/learning/certificates/9e85825cfa3b72a6cb3690bec0770af2878327e514aa636f93e915559c867c25?accountId=190487953&u=190487953&success=true&authUUID=VZrWt4MHSKi3YVWwvMgMOg%3D%3D) and created some [projects](https://github.com/alexcuesta/go-weather) in the past. However, I want to start focusing more on this language since now on.
 
 
 # Why Artificial Intelligence and Large Language Models? 
@@ -24,7 +24,7 @@ I now dedicate time to keeping up with new developments, experimenting with diff
 
 To put this curiosity into practice, I’ve built a couple of small projects:
 
-* A [https://github.com/alexcuesta/code-review-app](Python-based code review app) powered by Ollama.
-* An [https://github.com/alexcuesta/devcontext](MCP server in Node.js), to understand how tools can be exposed for agent interaction.
+* A [Python-based code review app](https://github.com/alexcuesta/code-review-app) powered by Ollama.
+* An [MCP server in Node.js](https://github.com/alexcuesta/devcontext), to understand how tools can be exposed for agent interaction.
 
-Additionally, I completed [https://www.coursera.org/account/accomplishments/verify/KDAEHMZ8P9WR](Andrew Ng’s Machine Learning course in 2018), which gave me a solid foundation in the fundamentals of AI.
+Additionally, I completed [Andrew Ng's Machine Learning course in 2018](https://www.coursera.org/account/accomplishments/verify/KDAEHMZ8P9WR), which gave me a solid foundation in the fundamentals of AI.
