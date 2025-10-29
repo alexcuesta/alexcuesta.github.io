@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AI Interest
+---
   
 Although I don’t have time to explore every new technology, I can’t help but feel passionate about innovation — especially in the field of Artificial Intelligence. The recent breakthroughs in Large Language Models and Generative AI are truly astonishing, and they’ve completely reignited my curiosity.
 
