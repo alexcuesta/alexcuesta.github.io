@@ -1,6 +1,13 @@
 ---
 layout: post
 title: First post on Github!
+category: thoughts
+tags:
+  - blog
+  - github
+  - personal
+  - migration
+  - new-beginnings
 ---
 
 I have decided to move my blog to github from [alexcuesta.wordpress.com](https://alexcuesta.wordpress.com/).

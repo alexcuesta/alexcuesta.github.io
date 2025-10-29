@@ -1,8 +1,13 @@
 ---
 layout: post
 title: AI Interest
+category: engineering
+tags:
+  - ai
+  - llm
+  - machine-learning
 ---
-  
+
 Although I don’t have time to explore every new technology, I can’t help but feel passionate about innovation — especially in the field of Artificial Intelligence. The recent breakthroughs in Large Language Models and Generative AI are truly astonishing, and they’ve completely reignited my curiosity.
 
 I now dedicate time to keeping up with new developments, experimenting with different models and agents, and learning how to design more effective prompts. I’ve also been exploring how applications can integrate with LLMs and how their capabilities can be extended through MCP servers.

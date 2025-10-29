@@ -1,6 +1,11 @@
 ---
 layout: post
 title: From Java to Go
+category: engineering
+tags:
+  - java
+  - go
+  - spring
 ---
 
 I’ve grown a bit tired of the Java ecosystem. Nowadays, it often feels like we’re programming for Spring rather than the JVM. Spring, while powerful, tends to spoil developers by enforcing an overly opinionated way of building software—often adding unnecessary complexity where simpler, lightweight solutions would suffice.
