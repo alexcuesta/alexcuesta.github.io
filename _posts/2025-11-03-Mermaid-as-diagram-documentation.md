@@ -11,7 +11,7 @@ tags:
   - software-architecture
 ---
 
-As I mentioned in my previous post, documentation should originate from a single source of truth and branch out to provide detailed information as needed. The repository's README file is the most common starting point.
+As I mentioned in my [previous post]({% post_url 2025-10-31-How-create-good-readme %}), documentation should originate from a single source of truth and branch out to provide detailed information as needed. The repository's README file is the most common starting point.
 
 Documentation often benefits from visual support through diagrams. Mermaid offers a simple, elegant solution for creating and embedding diagrams directly in README files or any linked markdown document. By using a text-based syntax, diagrams become version-controlled, reviewable, and maintainable alongside your code. Check out this [example of how Mermaid works](https://github.com/alexcuesta/mermaid-test) in my repository.
 
