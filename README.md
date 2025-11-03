@@ -50,6 +50,32 @@ Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Ma
 
 ## Local Development
 
+### Using Docker (Recommended for M1/M2/M3 Macs)
+
+1. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
+2. Navigate to your repository `cd yourusername.github.io`
+3. Make sure you have a `Gemfile` in your repository root with the following content:
+   ```ruby
+   source 'https://rubygems.org'
+
+   gem 'jekyll', '~> 4.3'
+   gem 'webrick', '~> 1.8'
+   gem 'jekyll-theme-tactile'
+   ```
+4. Run Jekyll using Docker:
+   ```bash
+   docker run --rm \
+     -v "$PWD":/usr/src/app \
+     -w /usr/src/app \
+     -p 4000:4000 \
+     -it ruby:3.2 \
+     sh -c "gem install bundler && bundle install && bundle exec jekyll serve --host 0.0.0.0"
+   ```
+5. View your website at http://localhost:4000/
+6. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
+
+### Traditional Method (May have compatibility issues on M1/M2/M3 Macs)
+
 1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
 2. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
 3. Serve the site and watch for markup/sass changes `jekyll serve`
